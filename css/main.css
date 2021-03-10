@@ -8,6 +8,7 @@ html,body{
     background-color:#424242;
     color:#fff;
     padding:20px;
+    width:100%;
 }
 
 #info .row .col-md-3:nth-child(1){
